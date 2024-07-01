@@ -32,24 +32,37 @@ This project was completed on Python and the necessary packages are included at 
 
 clustering.py:
 
-`import pandas as pd
-import numpy as np
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
-from sklearn.metrics import silhouette_score
-import plotly.graph_objects as go`
+```import pandas as pd```
+
+```import numpy as np```
+
+```from sklearn.preprocessing import MinMaxScaler```
+
+```from sklearn.cluster import KMeans```
+
+```import matplotlib.pyplot as plt```
+
+```from sklearn.metrics import silhouette_score```
+
+```import plotly.graph_objects as go```
 
 clustering_pca.py:
 
-`import pandas as pd
-import numpy as np
-from sklearn.preprocessing import MinMaxScaler, StandardScaler
-from sklearn.decomposition import PCA
-from sklearn.cluster import KMeans
-import matplotlib.pyplot as plt
-from sklearn.metrics import silhouette_score
-import plotly.graph_objects as go`
+```import pandas as pd```
+
+```import numpy as np```
+
+```from sklearn.preprocessing import MinMaxScaler, StandardScaler```
+
+```from sklearn.decomposition import PCA```
+
+```from sklearn.cluster import KMeans```
+
+```import matplotlib.pyplot as plt```
+
+```from sklearn.metrics import silhouette_score```
+
+```import plotly.graph_objects as go```
 
 ## Credit
 
