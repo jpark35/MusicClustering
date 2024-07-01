@@ -8,7 +8,7 @@ The goal of this project was to analyze various music data and put them into clu
 
 ## Features
 
-The data contains statistics of the top 2000 tracks on the Spotify platform. This dataset was found on Kaggle at the link: https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset?resource=download
+The data ```Spotify-2000.csv``` contains statistics of the top 2000 tracks on the Spotify platform. This dataset was found on Kaggle at the link: https://www.kaggle.com/datasets/iamsumat/spotify-top-2000s-mega-dataset?resource=download
 
 These are all the features provided in the dataset. 
 
